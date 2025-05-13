@@ -9,7 +9,9 @@ This is a demo repo to teach people how to use Git and GitHub in a collective se
 # Project Objectives
 Build simple guides and examples on how to use Git and GitHub
 
-# Resources
-data not available (sensitive)
+# Pycharm Title
+This is a Pycharm example
+
+
 
 
